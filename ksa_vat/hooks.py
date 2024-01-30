@@ -6,7 +6,7 @@ app_publisher = "Havenir Solutions"
 app_description = "KSA VAT Management and Reporting"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "support@havenir.com"
+app_email = "shahid@codessoft.com"
 app_license = "MIT"
 
 # Includes in <head>
